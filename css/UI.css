@@ -1,0 +1,25 @@
+.ui-context{
+	position: relative;
+}
+
+.ui-line{
+	background-color: #000000;
+	height: 2px;
+	
+	position: absolute;
+}
+
+.ui-callout{
+	font-size: 30px;
+	padding-left: 12px;
+	padding-right: 12px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	
+	border-width: 2px;
+	border-color: #000000;
+	border-style: solid;
+	
+	background-color: #CCCCCC;
+	position: absolute
+}
