@@ -9,7 +9,7 @@
 	position: absolute;
 }
 
-.ui-callout{
+.ui-callout-body{
 	font-size: 30px;
 	padding-left: 12px;
 	padding-right: 12px;
@@ -22,4 +22,7 @@
 	
 	background-color: #CCCCCC;
 	position: absolute
+}
+.ui-path{
+	position: absolute;
 }
